@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Call Me BountyGuy</h1>
+<h1 align="center">Hi 👋, Call Me JarrenPoh</h1>
 <h3 align="center">A passionate full-stack developer from Taiwan & Malaysia</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JarrenPoh&theme=onedark&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/JarrenPoh/github-profile-trophy)
